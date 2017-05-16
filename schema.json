@@ -1,7 +1,7 @@
 {
     "columns": [ {
-      "name": "Gen_ACCESSCMT",
-      "titles": "Gen_ACCESSCMT",
+      "name": "ACCESSION",
+      "titles": "Accession",
       "datatype": "string"
     }, {
       "name": "http://rs.tdwg.org/dwc/terms/eventDate",
@@ -59,13 +59,22 @@
       "name": "Number of stomachs",
       "titles": "Number of stomachs",
       "datatype": "string"
+      }, {  
+      "name": "STAGE",
+      "titles": "LifeStage",
+      "datatype": "string"         
       }, {
-      "name": "Prey Length",
-      "titles": "Prey Length",
+      "_comment" : "note that the format of the Sex colum is M for male and F for female",    
+      "name": "SEX",
+      "titles": "SEX",
       "datatype": "string"
       }, {
-      "name": " Minimum number",
-      "titles": "Minimum number",
+      "name": "COMMENTS",
+      "titles": "Comment",
+      "datatype": "string"
+      }, {
+      "name": " ACCESSCMT",
+      "titles": "ACCESSCMT",
       "datatype": "string"
     }]
 }
