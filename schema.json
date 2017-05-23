@@ -1,174 +1,216 @@
 {
     "columns": [ {
+      "_comment" : "",
       "name": "Gen_ACCESSCMT",
       "titles": "Gen_ACCESSCMT",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "Gen_COMMENTS",
       "titles": "Gen_COMMENTS",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "s_Generation",
       "titles": "s_Generation",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "s_GUID",
       "titles": "s_GUID",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "s_Lineage",
       "titles": "s_Lineage",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "ACCESSION",
       "titles": "ACCESSION",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "PARA_SPEC",
       "titles": "PARA_SPEC",
       "datatype": "string"
-      }, {  
+      }, {
+      "_comment" : "",
       "name": "PARA_GENUS",
       "titles": "PARA_GENUS",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "HOST_SPEC",
       "titles": "HOST_SPEC",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "HOST_GENUS",
       "titles": "HOST_GENUS",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "CLASS",
       "titles": "CLASS",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "BODY_LOC",
       "titles": "BODY_LOC",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "HOSTTAXON",
       "titles": "HOSTTAXON",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "ORIGFLDNO",
       "titles": "ORIGFLDNO",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "MUSEUMNO",
       "titles": "MUSEUMNO",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "FIXATIVE",
       "titles": "FIXATIVE",
       "datatype": "string"
-      }, {  
+      }, {
+      "_comment" : "",
       "name": "STAINS",
       "titles": "STAINS",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "MOUNTANT",
       "titles": "MOUNTANT",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LOCAL_GEO",
       "titles": "LOCAL_GEO",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LOCAL_POL",
       "titles": "LOCAL_POL",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LOCAL_MAP",
       "titles": "LOCAL_MAP",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LATDEG",
       "titles": "LATDEG",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LATMIN",
       "titles": "LATMIN",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LATSEC",
       "titles": "LATSEC",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LATDIR",
       "titles": "LATDIR",
       "datatype": "string"
-      }, {  
+      }, {
+      "_comment" : "",
       "name": "LONGDEG",
       "titles": "LONGDEG",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LONGMIN",
       "titles": "LONGMIN",
       "datatype": "string"
-      }, {  
+      }, {
+      "_comment" : "",
       "name": "LONGSEC",
       "titles": "LONGSEC",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LONGDIR",
       "titles": "LONGDIR",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "TYPE_STAT",
       "titles": "TYPE_STAT",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "STORAGE_NO",
       "titles": "STORAGE_NO",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "COLLECTOR",
       "titles": "COLLECTOR",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "COLL_DATE",
       "titles": "COLL_DATE",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "IDENTIFIER",
       "titles": "IDENTIFIER",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "IDENT_DATE",
       "titles": "IDENT_DATE",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "DONOR",
       "titles": "DONOR",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "BORROWER",
       "titles": "BORROWER",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "LOAN_DATE",
       "titles": "LOAN_DATE",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "Create_D",
       "titles": "Create_D",
       "datatype": "string"
-      }, {  
+      }, {
+      "_comment" : "",
       "name": "STAGE",
       "titles": "LifeStage",
       "datatype": "string"         
       }, {
-      "_comment" : "note that the format of the Sex colum is M for male and F for female",    
+      "_comment" : "note that the format of the Sex colum is M for male and F for female",
       "name": "SEX",
       "titles": "SEX",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": "COMMENTS",
       "titles": "Comment",
       "datatype": "string"
       }, {
+      "_comment" : "",
       "name": " ACCESSCMT",
       "titles": "ACCESSCMT",
       "datatype": "string"
