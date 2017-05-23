@@ -1,59 +1,159 @@
 {
     "columns": [ {
+      "name": "Gen_ACCESSCMT",
+      "titles": "Gen_ACCESSCMT",
+      "datatype": "string"
+      }, {
+      "name": "Gen_COMMENTS",
+      "titles": "Gen_COMMENTS",
+      "datatype": "string"
+      }, {
+      "name": "s_Generation",
+      "titles": "s_Generation",
+      "datatype": "string"
+      }, {
+      "name": "s_GUID",
+      "titles": "s_GUID",
+      "datatype": "string"
+      }, {
+      "name": "s_Lineage",
+      "titles": "s_Lineage",
+      "datatype": "string"
+      }, {
       "name": "ACCESSION",
-      "titles": "Accession",
+      "titles": "ACCESSION",
       "datatype": "string"
       }, {
-      "name": "sourceTaxonName",
-      "titles": "Predator Latin name",
+      "name": "PARA_SPEC",
+      "titles": "PARA_SPEC",
+      "datatype": "string"
+      }, {  
+      "name": "PARA_GENUS",
+      "titles": "PARA_GENUS",
       "datatype": "string"
       }, {
-      "name": "sourceTaxonName",
-      "titles": "Predator Latin name",
+      "name": "HOST_SPEC",
+      "titles": "HOST_SPEC",
       "datatype": "string"
       }, {
-      "name": "Sea",
-      "titles": "localityName",
+      "name": "HOST_GENUS",
+      "titles": "HOST_GENUS",
       "datatype": "string"
       }, {
-      "name": "Ices division",
-      "titles": "Ices division",
+      "name": "CLASS",
+      "titles": "CLASS",
       "datatype": "string"
       }, {
-      "name": "sourceTaxonName",
-      "titles": "Predator Latin name",
+      "name": "BODY_LOC",
+      "titles": "BODY_LOC",
       "datatype": "string"
       }, {
-      "name": "Predator common name",
-      "titles": "Predator common name",
+      "name": "HOSTTAXON",
+      "titles": "HOSTTAXON",
       "datatype": "string"
       }, {
-      "name": "Pooled",
-      "titles": "Pooled",
+      "name": "ORIGFLDNO",
+      "titles": "ORIGFLDNO",
       "datatype": "string"
       }, {
-      "name": "Mean length of predator",
-      "titles": "Mean length of predator",
+      "name": "MUSEUMNO",
+      "titles": "MUSEUMNO",
       "datatype": "string"
       }, {
-      "name": "targetTaxonName",
-      "titles": "Prey Latin name",
+      "name": "FIXATIVE",
+      "titles": "FIXATIVE",
+      "datatype": "string"
+      }, {  
+      "name": "STAINS",
+      "titles": "STAINS",
       "datatype": "string"
       }, {
-      "name": "Prey common name",
-      "titles": "Prey common name",
+      "name": "MOUNTANT",
+      "titles": "MOUNTANT",
       "datatype": "string"
       }, {
-      "name": "Prey group",
-      "titles": "Prey group",
+      "name": "LOCAL_GEO",
+      "titles": "LOCAL_GEO",
       "datatype": "string"
       }, {
-      "name": "Predator ID",
-      "titles": "Predator ID",
+      "name": "LOCAL_POL",
+      "titles": "LOCAL_POL",
       "datatype": "string"
       }, {
-      "name": "Number of stomachs",
-      "titles": "Number of stomachs",
+      "name": "LOCAL_MAP",
+      "titles": "LOCAL_MAP",
+      "datatype": "string"
+      }, {
+      "name": "LATDEG",
+      "titles": "LATDEG",
+      "datatype": "string"
+      }, {
+      "name": "LATMIN",
+      "titles": "LATMIN",
+      "datatype": "string"
+      }, {
+      "name": "LATSEC",
+      "titles": "LATSEC",
+      "datatype": "string"
+      }, {
+      "name": "LATDIR",
+      "titles": "LATDIR",
+      "datatype": "string"
+      }, {  
+      "name": "LONGDEG",
+      "titles": "LONGDEG",
+      "datatype": "string"
+      }, {
+      "name": "LONGMIN",
+      "titles": "LONGMIN",
+      "datatype": "string"
+      }, {  
+      "name": "LONGSEC",
+      "titles": "LONGSEC",
+      "datatype": "string"
+      }, {
+      "name": "LONGDIR",
+      "titles": "LONGDIR",
+      "datatype": "string"
+      }, {
+      "name": "TYPE_STAT",
+      "titles": "TYPE_STAT",
+      "datatype": "string"
+      }, {
+      "name": "STORAGE_NO",
+      "titles": "STORAGE_NO",
+      "datatype": "string"
+      }, {
+      "name": "COLLECTOR",
+      "titles": "COLLECTOR",
+      "datatype": "string"
+      }, {
+      "name": "COLL_DATE",
+      "titles": "COLL_DATE",
+      "datatype": "string"
+      }, {
+      "name": "IDENTIFIER",
+      "titles": "IDENTIFIER",
+      "datatype": "string"
+      }, {
+      "name": "IDENT_DATE",
+      "titles": "IDENT_DATE",
+      "datatype": "string"
+      }, {
+      "name": "DONOR",
+      "titles": "DONOR",
+      "datatype": "string"
+      }, {
+      "name": "BORROWER",
+      "titles": "BORROWER",
+      "datatype": "string"
+      }, {
+      "name": "LOAN_DATE",
+      "titles": "LOAN_DATE",
+      "datatype": "string"
+      }, {
+      "name": "Create_D",
+      "titles": "Create_D",
       "datatype": "string"
       }, {  
       "name": "STAGE",
