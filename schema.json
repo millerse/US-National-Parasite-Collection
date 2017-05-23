@@ -3,19 +3,15 @@
       "name": "ACCESSION",
       "titles": "Accession",
       "datatype": "string"
-    }, {
-      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
-      "titles": "Year",
-      "datatype": {
-        "base": "date",
-        "format": "yyyy"
-      }
-    }, {
-      "_comment" : "note that the format of the date column is not consistently applied by dapstrom",
-      "name": "Date",
-      "titles": "Date",
+      }, {
+      "name": "sourceTaxonName",
+      "titles": "Predator Latin name",
       "datatype": "string"
-    }, {
+      }, {
+      "name": "sourceTaxonName",
+      "titles": "Predator Latin name",
+      "datatype": "string"
+      }, {
       "name": "Sea",
       "titles": "localityName",
       "datatype": "string"
