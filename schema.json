@@ -31,26 +31,26 @@
       "datatype": "number"
       }, {
       "_comment" : "",
-      "name": "PARA_SPEC",
+      "name": "sourceTaxonSpecificEpithet",
       "titles": "PARA_SPEC",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "PARA_GENUS",
+      "name": "sourceTaxonGenus",
       "titles": "PARA_GENUS",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "HOST_SPEC",
+      "name": "targetTaxonSpecificEpithet",
       "titles": "HOST_SPEC",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "HOST_GENUS",
+      "name": "targetTaxonGenus",
       "titles": "HOST_GENUS",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Class of the parasect species",
       "name": "CLASS",
       "titles": "CLASS",
       "datatype": "string"
@@ -60,7 +60,7 @@
       "titles": "BODY_LOC",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Higher taxonony of the host species",
       "name": "HOSTTAXON",
       "titles": "HOSTTAXON",
       "datatype": "string"
@@ -95,7 +95,7 @@
       "titles": "LOCAL_GEO",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Specific location the species was collected",
       "name": "localityName",
       "titles": "LOCAL_POL",
       "datatype": "string"
@@ -106,42 +106,42 @@
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LATDEG",
+      "name": "decimalLatitudeDegree",
       "titles": "LATDEG",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LATMIN",
+      "name": "decimalLatitudeMinute",
       "titles": "LATMIN",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LATSEC",
+      "name": "decimalLatitudeSecond",
       "titles": "LATSEC",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LATDIR",
+      "name": "decimalLatitudeDirection",
       "titles": "LATDIR",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LONGDEG",
+      "name": "decimalLongitudeDegree",
       "titles": "LONGDEG",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LONGMIN",
+      "name": "decimalLongitudeMinute",
       "titles": "LONGMIN",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LONGSEC",
+      "name": "decimalLongitudeSecond",
       "titles": "LONGSEC",
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LONGDIR",
+      "name": "decimalLongitudeDirection",
       "titles": "LONGDIR",
       "datatype": "string"
       }, {
