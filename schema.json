@@ -25,10 +25,10 @@
       "titles": "s_Lineage",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "The Primanry Collector Number for the specimen",
       "name": "ACCESSION",
       "titles": "ACCESSION",
-      "datatype": "string"
+      "datatype": "number"
       }, {
       "_comment" : "",
       "name": "PARA_SPEC",
