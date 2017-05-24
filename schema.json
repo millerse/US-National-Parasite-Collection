@@ -166,7 +166,7 @@
       "datatype": {
         "base": "date",
         "format": "dd-mm-yyyy"
-      }, {
+      }}, {
       "_comment" : "Name of the person who identified the specimen",
       "name": "IDENTIFIER",
       "titles": "IDENTIFIER",
