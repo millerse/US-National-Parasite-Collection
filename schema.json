@@ -1,6 +1,6 @@
 {
     "columns": [ {
-      "_comment" : "",
+      "_comment" : "A number that is related to the dataset",
       "name": "Gen_ACCESSCMT",
       "titles": "Gen_ACCESSCMT",
       "datatype": "string"
@@ -20,7 +20,7 @@
       "titles": "s_GUID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Empty column",
       "name": "s_Lineage",
       "titles": "s_Lineage",
       "datatype": "string"
@@ -96,7 +96,7 @@
       "datatype": "string"
       }, {
       "_comment" : "",
-      "name": "LOCAL_POL",
+      "name": "localityName",
       "titles": "LOCAL_POL",
       "datatype": "string"
       }, {
@@ -145,7 +145,7 @@
       "titles": "LONGDIR",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "The type status of the specimen in the Invertabrate Zoology Collection at NMNH",
       "name": "TYPE_STAT",
       "titles": "TYPE_STAT",
       "datatype": "string"
@@ -155,22 +155,24 @@
       "titles": "STORAGE_NO",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "The person who collected the specimen",
       "name": "COLLECTOR",
       "titles": "COLLECTOR",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "COLL_DATE",
+      "_comment" : "Date when the specimen was collected",
+      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
       "titles": "COLL_DATE",
-      "datatype": "string"
+      "datatype": {
+        "base": "date",
+        "format": "dd-mm-yyyy"
       }, {
-      "_comment" : "",
+      "_comment" : "Name of the person who identified the specimen",
       "name": "IDENTIFIER",
       "titles": "IDENTIFIER",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Date the specimen was identified",
       "name": "IDENT_DATE",
       "titles": "IDENT_DATE",
       "datatype": "string"
@@ -205,7 +207,7 @@
       "titles": "SEX",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Comments about ",
       "name": "COMMENTS",
       "titles": "Comment",
       "datatype": "string"
