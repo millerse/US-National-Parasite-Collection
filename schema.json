@@ -149,12 +149,9 @@
       "datatype": "string"
       }, {
       "_comment" : "Date when the specimen was collected",
-      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
+      "name": "eventDate",
       "titles": "COLL_DATE",
-      "datatype": {
-        "base": "date",
-        "format": "dd-mm-yyyy"
-      }
+      "datatype": "string"
       }, {
       "_comment" : "Name of the person who identified the specimen",
       "name": "IDENTIFIER",
