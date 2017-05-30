@@ -154,7 +154,8 @@
       "datatype": {
         "base": "date",
         "format": "dd-mm-yyyy"
-      }}, {
+      }
+      }, {
       "_comment" : "Name of the person who identified the specimen",
       "name": "IDENTIFIER",
       "titles": "IDENTIFIER",
@@ -188,7 +189,7 @@
       "_comment" : "Life Stage",
       "name": "targetTaxonLifeStage",
       "titles": "STAGE",
-      "datatype": "string"         
+      "datatype": "string"
       }, {
       "_comment" : "note that the format of the Sex colum is M for male and F for female",
       "name": "targetTaxonSex",
