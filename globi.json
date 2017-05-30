@@ -3,7 +3,7 @@
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
     { "url": "http://invertebrates.si.edu/pdfs/NationalParasiteCollection_29-May-2014.xlsx",
-      "dcterms:bibliographicCitation": "http://invertebrates.si.edu/parasites.htm",
+      "dcterms:bibliographicCitation": "http://invertebrates.si.edu/pdfs/NationalParasiteCollection_29-May-2014.txt",
       "tableSchema": "schema.json",
       "headerRowCount": 1,
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002444",
