@@ -25,7 +25,7 @@
       "titles": "s_Lineage",
       "datatype": "string"
       }, {
-      "_comment" : "The Primanry Collector Number for the specimen",
+      "_comment" : "The Primary Collector Number for the specimen",
       "name": "ACCESSION",
       "titles": "ACCESSION",
       "datatype": "number"
@@ -46,7 +46,7 @@
       "titles": "HOST_GENUS",
       "datatype": "string"
       }, {
-      "_comment" : "Class of the parasect species",
+      "_comment" : "Class of the parasetic species",
       "name": "CLASS",
       "titles": "CLASS",
       "datatype": "string"
