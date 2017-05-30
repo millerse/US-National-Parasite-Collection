@@ -7,7 +7,7 @@
       "tableSchema": "schema.json",
       "headerRowCount": 1,
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002444",
-      "interactionTypeName": "parasite of",
+      "interactionTypeName": "parasiteof",
       "null": ["9999999998.0"]
     }
       ]
