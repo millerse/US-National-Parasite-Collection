@@ -2,21 +2,13 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
-    { "url": "https://github.com/millerse/US-National-Parasite-Collection/raw/master/NationalParastiteCollection_29-May-2014_pasrt-2.tsv",
+    { "url": "http://invertebrates.si.edu/pdfs/NationalParasiteCollection_29-May-2014.txt",
       "dcterms:bibliographicCitation": "http://invertebrates.si.edu/parasites.htm",
       "tableSchema": "schema.json",
       "headerRowCount": 1,
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002444",
       "interactionTypeName": "parasiteof",
       "null": ["9999999998.0"]
-    },
-    { "url": "https://github.com/millerse/US-National-Parasite-Collection/raw/master/NationalParastiteCollection_29-May-2014.tsv",
-      "dcterms:bibliographicCitation": "Pinnegar, J.K. (2014). DAPSTOM - An Integrated Database & Portal for Fish Stomach Records. Version 4.7. Centre for Environment, Fisheries & Aquaculture Science, Lowestoft, UK. February 2014, 39pp.",
-      "tableSchema": "schema.json",
-      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
-      "interactionTypeName": "eats",
-      "headerRowCount": 1,
-      "null": ["9999999998.0"]
-    },
+    }
       ]
 }
