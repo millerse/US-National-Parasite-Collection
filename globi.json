@@ -2,7 +2,7 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
-    { "url": "https://drive.google.com/file/d/0B1FCZ86umAeJb0FSN2M5bjNXYkE/view?usp=sharing",
+    { "url": "https://drive.google.com/open?id=0B1FCZ86umAeJS25ObURGTWV5YmM",
       "dcterms:bibliographicCitation": "http://invertebrates.si.edu/parasites.htm",
       "tableSchema": "schema.json",
       "headerRowCount": 1,
