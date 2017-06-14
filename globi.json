@@ -9,6 +9,15 @@
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002444",
       "interactionTypeName": "parasiteof",
       "null": ["9999999998.0"]
+    },
+   { "url": "errors.tsv",
+      "dcterms:bibliographicCitation": "http://invertebrates.si.edu/parasites.htm",
+      "tableSchema": "schema.json",
+      "headerRowCount": 1,
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002444",
+      "interactionTypeName": "parasiteof",
+      "null": ["9999999998.0"]
     }
+ 
       ]
 }
