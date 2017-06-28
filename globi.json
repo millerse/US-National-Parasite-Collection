@@ -2,7 +2,7 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
-    { "url": "cleaned up.tsv",
+    { "url": "cleaned_up.tsv",
       "dcterms:bibliographicCitation": "http://invertebrates.si.edu/parasites.htm",
       "tableSchema": "schema.json",
       "headerRowCount": 1,
