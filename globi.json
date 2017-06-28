@@ -2,7 +2,15 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
-    { "url": "cleaned%20up.tsv",
+    { "url": "cleaned_up.tsv",
+      "dcterms:bibliographicCitation": "http://invertebrates.si.edu/parasites.htm",
+      "tableSchema": "schema.json",
+      "headerRowCount": 1,
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002444",
+      "interactionTypeName": "parasiteof",
+      "null": ["9999999998.0"]
+    },
+   { "url": "errors.tsv",
       "dcterms:bibliographicCitation": "http://invertebrates.si.edu/parasites.htm",
       "tableSchema": "schema.json",
       "headerRowCount": 1,
@@ -10,5 +18,6 @@
       "interactionTypeName": "parasiteof",
       "null": ["9999999998.0"]
     }
-  ]
+ 
+      ]
 }
