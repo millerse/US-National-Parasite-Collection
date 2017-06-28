@@ -4,200 +4,200 @@
       "name": "Gen_ACCESSCMT",
       "titles": "Gen_ACCESSCMT",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "A number that is related to the dataset",
       "name": "Gen_COMMENTS",
       "titles": "Gen_COMMENTS",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "A number that is related to the dataset",
       "name": "s_Generation",
       "titles": "s_Generation",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "A unique number for each specimen",
       "name": "s_GUID",
       "titles": "s_GUID",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Empty column",
       "name": "s_Lineage",
       "titles": "s_Lineage",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "The Primary Collector Number for the specimen",
       "name": "ACCESSION",
       "titles": "ACCESSION",
       "datatype": "number"
-      }, {
+    }, {
       "name": "sourceTaxonSpecificEpithet",
       "titles": "PARA_SPEC",
       "datatype": "string"
-      }, {
+    }, {
       "name": "sourceTaxonGenus",
       "titles": "PARA_GENUS",
       "datatype": "string"
-      }, {
+    }, {
       "name": "targetTaxonSpecificEpithet",
       "titles": "HOST_SPEC",
       "datatype": "string"
-      }, {
+    }, {
       "name": "targetTaxonGenus",
       "titles": "HOST_GENUS",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Class of the parasetic species",
       "name": "CLASS",
       "titles": "CLASS",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "The part of the body in the host that is affected by the parasite specimen",
       "name": "LocationinhostName",
       "titles": "BODY_LOC",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Higher taxonony of the host species",
       "name": "HOSTTAXON",
       "titles": "HOSTTAXON",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Collector number of the specimen",
       "name": "ORIGFLDNO",
       "titles": "ORIGFLDNO",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "An additional collection number from another museum",
       "name": "MUSEUMNO",
       "titles": "MUSEUMNO",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Description of how the specimen has been prepared for storage in the museum",
       "name": "FIXATIVE",
       "titles": "FIXATIVE",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Description of the color of a prepared stain relating to the species",
       "name": "STAINS",
       "titles": "STAINS",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Noting the mounting material used",
       "name": "MOUNTANT",
       "titles": "MOUNTANT",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Higher geographical location in terms of continental location",
       "name": "LOCAL_GEO",
       "titles": "LOCAL_GEO",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Specific location the species was collected",
       "name": "localityName",
       "titles": "LOCAL_POL",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "A list of the latitude and longitude of where the specimen was found",
       "name": "LOCAL_MAP",
       "titles": "LOCAL_MAP",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLatitudeDegree",
       "titles": "LATDEG",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLatitudeMinute",
       "titles": "LATMIN",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLatitudeSecond",
       "titles": "LATSEC",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLatitudeDirection",
       "titles": "LATDIR",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLongitudeDegree",
       "titles": "LONGDEG",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLongitudeMinute",
       "titles": "LONGMIN",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLongitudeSecond",
       "titles": "LONGSEC",
       "datatype": "string"
-      }, {
+    }, {
       "name": "decimalLongitudeDirection",
       "titles": "LONGDIR",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "The type status of the specimen in the Invertabrate Zoology Collection at NMNH",
       "name": "TYPE_STAT",
       "titles": "TYPE_STAT",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Description of the storage location of the specimen in NMNH",
       "name": "STORAGE_NO",
       "titles": "STORAGE_NO",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "The person who collected the specimen",
       "name": "COLLECTOR",
       "titles": "COLLECTOR",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Date when the specimen was collected",
       "name": "eventDate",
       "titles": "COLL_DATE",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Name of the person who identified the specimen",
       "name": "IDENTIFIER",
       "titles": "IDENTIFIER",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Date the specimen was identified",
       "name": "IDENT_DATE",
       "titles": "IDENT_DATE",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Donor number",
       "name": "DONOR",
       "titles": "DONOR",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Yes or no to whether the specimen is being borrowed",
       "name": "BORROWER",
       "titles": "BORROWER",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Date of the loan period of the specimen",
       "name": "LOAN_DATE",
       "titles": "LOAN_DATE",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Date for when the digital record was created",
       "name": "Create_D",
       "titles": "Create_D",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Life Stage",
       "name": "targetTaxonLifeStage",
       "titles": "STAGE",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "note that the format of the Sex colum is M for male and F for female",
       "name": "targetTaxonSex",
       "titles": "SEX",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Comments about the host species",
       "name": "COMMENTS",
       "titles": "Comment",
       "datatype": "string"
-      }, {
+    }, {
       "_comment" : "Comments from the Microsoft Access dataset",
       "name": " ACCESSCMT",
       "titles": "ACCESSCMT",
