@@ -28,7 +28,7 @@
       "_comment" : "The Primary Collector Number for the specimen",
       "name": "ACCESSION",
       "titles": "ACCESSION",
-      "datatype": "number"
+      "datatype": "string"
     }, {
       "name": "sourceTaxonSpecificEpithet",
       "titles": "PARA_SPEC",
